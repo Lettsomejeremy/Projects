@@ -1,2 +1,2 @@
-# Projects
-place holder for awesome
+# summer school
+because apparently schoolwork and homework isn't enough
